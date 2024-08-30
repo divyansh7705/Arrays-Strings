@@ -16,3 +16,7 @@ int main(){
     cout << "Maximum: " << max << endl;
     cout << "Minimum: " << min << endl;
 }
+/* output:
+Maximum: 1000
+Minimum: 30
+*/
