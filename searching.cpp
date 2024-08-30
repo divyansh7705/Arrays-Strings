@@ -20,3 +20,7 @@ int main() {
     return 0;
         
 }
+/* OUTPUT:-
+the number to search5
+position of the number is5
+*/
