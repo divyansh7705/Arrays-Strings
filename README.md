@@ -1,6 +1,5 @@
 # Arrays-Strings
 
-# Arrays
 
 ## Aim :- 
 To study use of and to implement arrays and strings in C++.
