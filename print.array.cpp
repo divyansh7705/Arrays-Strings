@@ -9,3 +9,6 @@ int main(){
     }
     return 0;
 }
+/* output:-
+    10 20 30 40 50  
+*/
