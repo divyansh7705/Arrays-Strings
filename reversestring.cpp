@@ -12,3 +12,8 @@ int main(){
     cout<<"Reversed string is: "<<rev_str<<endl;
 
 }
+/* OUTPUT:-
+Enter a string: 
+789654
+Reversed string is: 456987
+*/
